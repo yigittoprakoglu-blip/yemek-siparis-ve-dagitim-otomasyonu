@@ -1,0 +1,8 @@
+5|patates kçzartmasç|60|12
+6|hamburger|418|40
+1|iskender|500|40
+4|lahmacun|70|20
+3|kuübaüçlç pide |300|50
+2|kçymalç pide|250|40
+7|kaüarlç pide|230|40
+10|mantç|250|30
